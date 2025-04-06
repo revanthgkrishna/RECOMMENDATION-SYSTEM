@@ -19,3 +19,4 @@ Steps Involved:
 5. Showcase recommendations for specific users.
 
 #OUTPUT(HeatMap):
+![Image](https://github.com/user-attachments/assets/16ed75e3-6007-42d5-9ace-a2deec0a9ca9)
