@@ -17,6 +17,3 @@ Steps Involved:
 3. Implement Collaborative Filtering using techniques like Singular Value Decomposition (SVD) or K-Nearest Neighbors (KNN).
 4. Evaluate the system using metrics like RMSE (Root Mean Square Error) and Precision@K.
 5. Showcase recommendations for specific users.
-
-#OUTPUT(HeatMap):
-![Image](https://github.com/user-attachments/assets/16ed75e3-6007-42d5-9ace-a2deec0a9ca9)
